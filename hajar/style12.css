@@ -1,0 +1,61 @@
+/*
+*{
+  padding:0;
+  margin: 0;
+  box-sizing : border-box;
+}
+
+.bodyAcceuil{
+  
+  background :  ;
+  background-size : cover;
+  background-position : center;
+  font-family : sans-serif;
+  
+}
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+**/
+
+img {
+  background-color: grey;
+
+  width: 1000px;
+  height: 800px;
+  display: block;
+  margin: 120px;
+  padding: 110px;
+}
+ h1{
+  text-align: center;
+  font-size: 8rem;
+  font-family: 'Allura', cursive;
+  color : black;
+  padding: 0px;
+  margin: 0px;
+  z-index: 1;
+  opacity: 0.7;
+
+  border: 10px red solid ;
+ }
+ h2{
+  color:  #303952;
+ }
+p{
+    border: 20px  inset  ;
+    width: 900px;
+    text-align: center;
+    background-color: lightblue;
+}
+.container p{
+  text-align: center;
+}
+th{
+  color: red;
+  font-size: 2rem;
+}
+
